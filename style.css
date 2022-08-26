@@ -26,8 +26,8 @@ body {
 .card {
   --padding: 0.7em 0;
   min-width: 360px;
-  width: 37rem;
-  height: 27rem;
+  width: 35rem;
+  height: 28.5rem;
   display: flex;
   border-radius: 12px;
   overflow: hidden;
@@ -60,7 +60,7 @@ body {
 
 .card__content {
   padding: 2em;
-  margin-left: 48%;
+  margin-left: 50%;
   background-color: var(--white);
 }
 
